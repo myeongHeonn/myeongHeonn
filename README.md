@@ -1,4 +1,4 @@
-# 👨‍💻 O MYEONG HEON 
+# 👨‍💻 OH MYEONG HEON 
 
 ### 안녕하세요 백엔드 개발자 오명헌 입니다.
 
@@ -19,4 +19,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+# 📁Project
+
+# 💎Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=axm0219)](https://solved.ac/axm0219/)
