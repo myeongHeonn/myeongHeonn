@@ -1,4 +1,6 @@
-# O MYEONG HEON 👨‍💻
+# 👨‍💻 O MYEONG HEON 
+
+### 안녕하세요 백엔드 개발자 오명헌 입니다.
 
 # 💫Skill
 ### Platforms & Languages
