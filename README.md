@@ -20,6 +20,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 # 📁Project
+#### [PetCheck](https://github.com/jsh0508/PetCheck#readme) : 반려동물 피부질환 자가진단 서비스
 
 # 💎Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=axm0219)](https://solved.ac/axm0219/)
