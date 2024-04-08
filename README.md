@@ -8,6 +8,7 @@
 ### 🙋‍♂️ 활동
 - 스마트인재개발원 빅데이터 분석 서비스개발자과정 (2023.03.07 - 2023.08.24) <br>
 - 전남대학교 IT 개발 동아리 에코노베이션 (2023.10.05 - )
+- 카카오테크 캠퍼스 2기 (2024.04.08 - )
 <br>
 
 ### 🏆 수상
@@ -18,5 +19,6 @@
 ### 💡 프로젝트
 - [PetCheck](https://github.com/jsh0508/PetCheck#readme) : 반려동물 피부질환 자가진단 서비스
 - [ReRe](https://github.com/JNU-econovation/ReRe) : 암기를 위한 반복 학습 서비스
+- [ChackCheck](https://github.com/JNU-econovation/econo-sigma) : 동아리 내 도서 관리 서비스
 
 
