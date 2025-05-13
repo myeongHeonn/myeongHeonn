@@ -6,8 +6,7 @@
 </p>
 <p align="center">
   🙇‍♂️ &nbsp;I'd like Backend Developer.<br>
-  ✍️ &nbsp;Studying Java, Spring, AWS.<br>
-  🎤 &nbsp;Organizing <strong><a href="https://github.com/JNU-econovation">Econovation</a></strong>.<br>
+  ✍️ &nbsp;AI Agent.<br>
   💜 &nbsp;Like going to cafe.<br> 
 </p>
 
