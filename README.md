@@ -7,6 +7,6 @@
 <p align="center">
   🙇‍♂️ &nbsp;I'd like Backend Developer.<br>
   ✍️ &nbsp;AI Agent.<br>
-  💜 &nbsp;Like going to cafe.<br> 
+  💜 &nbsp;Enjoys coffee.<br> 
 </p>
 
